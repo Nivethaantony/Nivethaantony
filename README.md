@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nivethaantony
-- 👀 I’m interested in UI Development
-- 🌱 I’m currently learning Responsive UI
+- 👀 I’m interested in  Software Development
+- 🌱 I’m currently learning SQL Queries
 - 📫 How to reach me nivethaantony98@gmail.com
 
 <!---
